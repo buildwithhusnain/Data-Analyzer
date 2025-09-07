@@ -22,7 +22,8 @@ A modern, responsive Flask web application for uploading and visualizing data fr
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/buildwithhusnain/Data-Analyzer.git```
+git clone https://github.com/buildwithhusnain/Data-Analyzer.git
+```
 
 2. **Install dependencies**
 ```bash
